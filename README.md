@@ -22,10 +22,15 @@ I'm a Product Manager 💻 living my dream in Hawaii🌴
     ...you get the idea!
 ### 🌱 I’m currently...
   - learning how to make a Github (so if you are seeing this I'm doing pretty good)
-  - enjoying post-grad life in Hawaii
+  - working on my professionally amateur surf skills
 ###  💞️ I’m looking to... 
   - collaborate on new products in the fintech and AI spaces
-  - find a new PM or BusOps position
+  - find a new PM or BizOps/Strategy position
+### 🔨 I've previously worked on...
+  - Tink's A2A payments
+  - Tink's Account Check and Transactions APIs
+  - Visa's Card Issuer Database
+  - American Century's Client business strategy and analytics
 ### 📫 Connect with me!
   - callahanhinckley@gmail.com
   - https://www.linkedin.com/in/callahan-hinckley/
